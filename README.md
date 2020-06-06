@@ -1,0 +1,2 @@
+# SITS-Secure-IoT-System
+SITS is a secure IoT system that implements lightweight cryptography which performs strong security mechanism, encryption or decryption with low power applications. Here we apply the lightweight cryptographic algorithms in order to achieve end-to-end security and with lower power consumption in these devices. These lightweight algorithms are designed for IoT to deal with the security and resource utilization challenges.
