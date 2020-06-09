@@ -12,24 +12,8 @@ There are many challenges and issues like power consumption of devices, limited 
 
 
 ## INTRODUCTION
-The Internet of Things (IoT) is turning out to be an emerging discussion in the field of research as our
-daily life is becoming smarter and easier because of this well recognised emerging technology and
-due to its practical implementation in the recent years we have been learning more and more about
-this system. IoT is a model that includes ordinary entities with the capability to sense and
-communicate with fellow devices using Internet. As the broadband Internet is now generally
-accessible and its cost of connectivity is also reduced, more gadgets and sensors are getting
-connected to it. Such conditions are providing suitable ground for the growth of IoT. There is great
-deal of complexities around the IoT, since we wish to approach every object from anywhere in the
-world. The sophisticated chips and sensors are embedded in the physical things that surround us,
-each transmitting valuable data. The process of sharing such large amount of data begins with the
-devices themselves which must securely communicate with the IoT platform. The IoT is taking the
-conventional internet, sensor network and mobile network to another level as everything will be
-connected to the internet. A matter of concern that must be kept under consideration is to ensure
-the issues related to confidentiality, data integrity and authenticity that will emerge on account of
-security and privacy.
+The Internet of Things (IoT) is turning out to be an emerging discussion in the field of research as our daily life is becoming smarter and easier because of this well recognised emerging technology and due to its practical implementation in the recent years we have been learning more and more about this system. IoT is a model that includes ordinary entities with the capability to sense and
+communicate with fellow devices using Internet. As the broadband Internet is now generally accessible and its cost of connectivity is also reduced, more gadgets and sensors are getting connected to it. Such conditions are providing suitable ground for the growth of IoT. There is great deal of complexities around the IoT, since we wish to approach every object from anywhere in the world. The sophisticated chips and sensors are embedded in the physical things that surround us, each transmitting valuable data. The process of sharing such large amount of data begins with the devices themselves which must securely communicate with the IoT platform. The IoT is taking the
+conventional internet, sensor network and mobile network to another level as everything will be connected to the internet. A matter of concern that must be kept under consideration is to ensure the issues related to confidentiality, data integrity and authenticity that will emerge on account ofsecurity and privacy.
 
-This project was prepared was prepared in such a way to as to meet the above requirements as
-efficiently and reliably as possible. This is done by implementing various encryption and security
-algorithms so that the data being transferred between these IoT devices is very secure and is not
-vulnerable to breaches. The main focus of this project is to implement these algorithms into one
-shared platform for all IoT devices from secure authentication to data encryption.
+This project was prepared was prepared in such a way to as to meet the above requirements as efficiently and reliably as possible. This is done by implementing various encryption and security algorithms so that the data being transferred between these IoT devices is very secure and is not vulnerable to breaches. The main focus of this project is to implement these algorithms into one shared platform for all IoT devices from secure authentication to data encryption.
